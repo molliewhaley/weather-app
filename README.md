@@ -10,7 +10,7 @@ The Weather App is a reliable and user-friendly weather application built using 
 - Offers a comprehensive summary of the most relevant conditions for both current and upcoming forecasts.
 
 ## Demo
-<img src="WeatherTutorial.gif" alt="Weather App Demo" width="250" height="400">
+<img src="WeatherTutorial.gif" alt="Weather App Demo" width="225" height="400">
 
 ## Technologies 
 - SwiftUI
